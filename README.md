@@ -1,6 +1,6 @@
 # 🔍 Recon Framework
 
-A modular, extensible recon and information gathering framework powered by Bash + Python.
+⚔️ Recon Framework — A full-spectrum information gathering toolkit for ethical hackers, red teamers, and bug bounty hunters.
 
 ## ✨ Features
 
