@@ -1,0 +1,10 @@
+__pycache__/
+output/
+logs/
+reports/
+tools/
+wordlists/
+*.deb
+*.tar.gz
+*.zip
+*.log

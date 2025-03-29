@@ -1,0 +1,11 @@
+tools:
+  dns_enum: {enabled: true}
+  port_scan: {enabled: true}
+  live_hosts: {enabled: true}
+  protocol_enum: {enabled: true}
+  web_recon: {enabled: true}
+  osint_enum: {enabled: true}
+  code_recon: {enabled: true}
+  fingerprint: {enabled: true}
+  leak_scanner: {enabled: true}
+  traffic_sniffer: {enabled: true}
