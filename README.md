@@ -14,7 +14,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/recon-framework.git
+git clone https://github.com/mr-mohamad-mr/recon-framework.git
 cd recon-framework
 chmod +x core.sh install_deps.sh
 ./install_deps.sh
